@@ -1,0 +1,62 @@
+[
+  {
+    "id": 102,
+    "message": "string",
+    "isRead": false,
+    "hide": true,
+    "userType": "Regular",
+    "fromUser": 1,
+    "toUser": 2,
+    "createdAt": "2022-06-15T18:30:17.269+00:00"
+  },
+  {
+    "id": 1,
+    "message": "Hello",
+    "isRead": false,
+    "hide": false,
+    "userType": "Regular",
+    "fromUser": 1,
+    "toUser": 2,
+    "createdAt": "2022-06-15T16:04:34.105+00:00"
+  },
+  {
+    "id": 2,
+    "message": "Hello",
+    "isRead": false,
+    "hide": false,
+    "userType": "Regular",
+    "fromUser": 1,
+    "toUser": 2,
+    "createdAt": "2022-06-15T16:04:34.105+00:00"
+  },
+  {
+    "id": 3,
+    "message": "Hello",
+    "isRead": false,
+    "hide": false,
+    "userType": "Regular",
+    "fromUser": 1,
+    "toUser": 2,
+    "createdAt": "2022-06-15T16:04:34.105+00:00"
+  },
+  {
+    "id": 4,
+    "message": "Hello",
+    "isRead": false,
+    "hide": false,
+    "userType": "Regular",
+    "fromUser": 1,
+    "toUser": 2,
+    "createdAt": "2022-06-15T16:04:34.105+00:00"
+  },
+  {
+    "id": 52,
+    "message": "Hello",
+    "isRead": false,
+    "hide": false,
+    "userType": "Regular",
+    "fromUser": 1,
+    "toUser": 2,
+    "createdAt": "2022-06-15T16:04:34.105+00:00"
+  }
+]
