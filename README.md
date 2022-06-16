@@ -1,6 +1,12 @@
 # microservices-poc
 Microservices POC With Kafka and Service Registry
 
+Bonuses:
+1. Live Notifications'
+2. Mapstruct to map objects
+3. Kafka
+4. Swagger Documentations
+
 Project dependencies:
 1. Docker
 2. Java 11
